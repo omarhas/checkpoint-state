@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    text-decoration: dotted;
+    text-shadow: 0cm;
+    font-size: 30px;
+    border-radius: 50%;
+}
+
+.App-header {
+    background-color: #FFEEDB;
+    color: rgb(40, 17, 240);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column-reverse;
+}
